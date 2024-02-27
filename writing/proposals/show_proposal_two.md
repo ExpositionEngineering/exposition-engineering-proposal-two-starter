@@ -94,8 +94,9 @@ references that you consulted when writing this show proposal.
 - **Reference Three**:
 
 TODO: If you used any type of artificial intelligence (AI) writing assistant
-tools, please add an additional paragraph that explains clearly specific tools
-you used, how you used them, and what content they helped you to brainstorm,
-write, or revise. While the use of AI writing assistants is permitted as a part
-of the Exposition Engineering course, it is important for you to clearly cite
-all of the tools that you used to create the content in this proposal.
+tools, please add an additional paragraph that clearly explains the specific
+tools you used, how you used them, and what content they helped you to
+brainstorm, write, or revise. While the use of AI writing assistants is
+permitted as a part of the Exposition Engineering course, it is important for
+you to clearly cite all of the tools that you used to create the content in
+this proposal.
